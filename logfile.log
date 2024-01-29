@@ -1,0 +1,85 @@
+INFO	2024-01-26 13:44:36,882	0	org.example.Main	[main]	Attempting to add a patient record: 'PCP123','julie flower',35.'cancer'
+INFO	2024-01-26 13:44:42,594	5712	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID=''PCP123'',fullName=''julie flower'',age='35',diagnosis=''cancer''}]
+INFO	2024-01-26 13:45:12,706	35824	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID=''PCP123'',fullName=''julie flower'',age='35',diagnosis=''cancer''}]
+INFO	2024-01-26 13:46:24,219	107337	org.example.Main	[main]	Attempting to add a patient record: 'PCP 234','Mark z',24.'cancer'
+INFO	2024-01-26 13:46:38,197	121315	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID=''PCP123'',fullName=''julie flower'',age='35',diagnosis=''cancer''}, PatientRecord {patientID=''PCP 234'',fullName=''Mark z'',age='24',diagnosis=''cancer''}]
+INFO	2024-01-26 13:52:13,142	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-26 13:52:38,871	25729	org.example.Main	[main]	Attempting to add a patient record: 123,herry k,46.harnia
+INFO	2024-01-26 13:52:41,530	28388	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-26 13:52:41,549	28407	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID='123',fullName='herry k',age='46',diagnosis='harnia'}]
+INFO	2024-01-26 13:52:53,948	40806	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-26 13:52:53,948	40806	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID='123',fullName='herry k',age='46',diagnosis='harnia'}]
+INFO	2024-01-29 09:27:23,283	0	org.example.Main	[main]	Attempting to add a patient record: PID123,John Doe,30.Fever
+INFO	2024-01-29 09:27:23,299	16	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID='PID123',fullName='John Doe',age='30',diagnosis='Fever'}]
+INFO	2024-01-29 09:27:23,300	17	org.example.Main	[main]	Attempting to add a patient record: PID123,John Doe,-1.Fever
+WARN	2024-01-29 09:27:23,303	20	org.example.Main	[main]	Throwing Patient record exception due to misformatted age:-1
+INFO	2024-01-29 09:27:23,303	20	org.example.Main	[main]	Attempting to add a patient record: PID123,John Doe,30.Fever
+INFO	2024-01-29 09:27:23,304	21	org.example.Main	[main]	Now retrieving all patient records: []
+INFO	2024-01-29 09:28:47,473	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 09:29:50,580	63107	org.example.Main	[main]	Attempting to add a patient record: 'PID124','henny z',35.'cancer'
+INFO	2024-01-29 09:29:53,604	66131	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 09:29:53,626	66153	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID=''PID124'',fullName=''henny z'',age='35',diagnosis=''cancer''}]
+INFO	2024-01-29 09:33:16,911	0	org.example.Main	[main]	Attempting to add a patient record: PID123,John Doe,30.Fever
+INFO	2024-01-29 09:33:16,925	14	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID='PID123',fullName='John Doe',age='30',diagnosis='Fever'}]
+INFO	2024-01-29 09:33:16,926	15	org.example.Main	[main]	Attempting to add a patient record: PID123,John Doe,-1.Fever
+WARN	2024-01-29 09:33:16,929	18	org.example.Main	[main]	Throwing Patient record exception due to misformatted age:-1
+INFO	2024-01-29 09:33:16,929	18	org.example.Main	[main]	Attempting to add a patient record: PID123,John Doe,30.Fever
+INFO	2024-01-29 09:33:16,930	19	org.example.Main	[main]	Now retrieving all patient records: []
+INFO	2024-01-29 09:33:31,939	0	org.example.Main	[main]	Now retrieving all patient records: []
+INFO	2024-01-29 09:59:43,263	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:00:02,260	18997	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:00:16,053	32790	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:00:36,436	53173	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:15:11,137	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:15:53,288	42151	org.example.Main	[main]	Attempting to add a patient record: 'PID132','John B',1.'cancer'
+INFO	2024-01-29 10:16:43,500	92363	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:16:57,205	106068	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:17:04,941	113804	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:17:24,119	132982	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:19:45,735	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:19:49,638	3903	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:20:42,639	56904	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:20:58,992	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:27:46,717	407725	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:29:44,425	525433	org.example.Main	[main]	Attempting to add a patient record: 'PID 168','Kenny B',0.'cancer'
+WARN	2024-01-29 10:29:44,427	525435	org.example.Main	[main]	Throwing Patient record exception due to misformatted age:0
+INFO	2024-01-29 10:30:08,294	549302	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:30:08,295	549303	org.example.Main	[main]	Now retrieving all patient records: []
+INFO	2024-01-29 10:30:14,749	555757	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:33:51,832	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:33:51,836	4	org.example.Main	[main]	Now retrieving all patient records: []
+INFO	2024-01-29 10:33:57,509	5677	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:34:07,232	15400	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:34:12,838	21006	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:34:25,437	33605	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:34:25,438	33606	org.example.Main	[main]	Now retrieving all patient records: []
+INFO	2024-01-29 10:38:29,855	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:38:46,405	16550	org.example.Main	[main]	Attempting to add a patient record: 'PID456','John K',56.'cancer'
+INFO	2024-01-29 10:53:16,681	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:53:16,684	3	org.example.Main	[main]	Now retrieving all patient records: []
+INFO	2024-01-29 10:53:35,671	18990	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:53:39,862	23181	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 10:53:39,862	23181	org.example.Main	[main]	Now retrieving all patient records: []
+INFO	2024-01-29 15:21:48,396	0	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:22:13,226	24830	org.example.Main	[main]	Attempting to add a patient record: 'PID255','Peter F',46.'Fever'
+INFO	2024-01-29 15:22:17,672	29276	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:22:17,691	29295	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID=''PID255'',fullName=''Peter F'',age='46',diagnosis=''Fever''}]
+INFO	2024-01-29 15:22:28,631	40235	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:22:33,071	44675	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:22:33,071	44675	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID=''PID255'',fullName=''Peter F'',age='46',diagnosis=''Fever''}]
+INFO	2024-01-29 15:22:37,266	48870	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:23:05,017	76621	org.example.Main	[main]	Attempting to add a patient record: 'PID256','Kethy L',67.'cold'
+INFO	2024-01-29 15:23:08,247	79851	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:23:08,247	79851	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID=''PID255'',fullName=''Peter F'',age='46',diagnosis=''Fever''}, PatientRecord {patientID=''PID256'',fullName=''Kethy L'',age='67',diagnosis=''cold''}]
+INFO	2024-01-29 15:23:30,944	102548	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:23:56,391	127995	org.example.Main	[main]	Attempting to add a patient record: 'PID257','Lisa M',34.'Cough'
+INFO	2024-01-29 15:23:58,904	130508	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:23:58,904	130508	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID=''PID255'',fullName=''Peter F'',age='46',diagnosis=''Fever''}, PatientRecord {patientID=''PID256'',fullName=''Kethy L'',age='67',diagnosis=''cold''}, PatientRecord {patientID=''PID257'',fullName=''Lisa M'',age='34',diagnosis=''Cough''}]
+INFO	2024-01-29 15:25:02,839	194443	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:32:54,352	665956	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:33:28,968	700572	org.example.Main	[main]	Attempting to add a patient record: "PID258','Marc E',0.'cancer'
+WARN	2024-01-29 15:33:28,970	700574	org.example.Main	[main]	Throwing Patient record exception due to misformatted age:0
+INFO	2024-01-29 15:33:55,272	726876	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:33:55,272	726876	org.example.Main	[main]	Now retrieving all patient records: [PatientRecord {patientID=''PID255'',fullName=''Peter F'',age='46',diagnosis=''Fever''}, PatientRecord {patientID=''PID256'',fullName=''Kethy L'',age='67',diagnosis=''cold''}, PatientRecord {patientID=''PID257'',fullName=''Lisa M'',age='34',diagnosis=''Cough''}]
+INFO	2024-01-29 15:33:58,720	730324	org.example.Main	[main]	Go to main method and recheck the program
+INFO	2024-01-29 15:34:40,088	771692	org.example.Main	[main]	Go to main method and recheck the program
